@@ -1,0 +1,14 @@
+* FEATURES
+** MODKEYS
+   Super toggles command mode.
+   Space is a lead-key for less-used commands.
+** SEVERAL SPACE PARTITIONING SCHEMES
+   Master/stack.
+** TAGGED WINDOWS
+   Each window can have multiple tags.
+   Windwows whose tags are in the list of activated tags must be present on the screen and arranged according to chosen scheme.
+** MODAL CONTROLS
+*** navigation
+    Emulate cursor movement with ijkl. 
+    Switch between active windows with u/o.
+    Jumps to window by its class, by pressing "." and picking window class from menu.
